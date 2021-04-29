@@ -1627,6 +1627,7 @@ A registry allows you to publish your Rust libraries as crate packages, to share
 * [RustBooks](https://github.com/sger/RustBooks) — list of RustBooks
 * [Rust Subreddit](https://www.reddit.com/r/rust/) — A subreddit(forum) where rust related questions, articles and resources are posted and discussed
 * [Rust Servers, Services and Apps - MEAP](http://mng.bz/XdWl) - Build backend servers, services, and front-ends in Rust to get fast, reliable, and maintainable applications.
+* [Ferris emojis](https://github.com/jdrouet/ferris-emoji/) - A list of ferris emojis to fill your slack with 🦀
 
 ## License
 
